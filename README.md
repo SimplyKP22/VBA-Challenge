@@ -1,4 +1,4 @@
-# VBA-Skills-Challenge
+# VBA-Challenge
 This repository showcases skills in VBA
 ## Instructions
 
